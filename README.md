@@ -6,4 +6,5 @@ After intializing the model , to fit the textual data , I used two different met
 
 1. CountVectorizer  
 2. TfidiVectorizer.
+
 Then I evaluted the metrics for both. I also used MultinomialNB to see whether it predicts with better accuracy or not.
